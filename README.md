@@ -1,6 +1,6 @@
 # Mony Chan
 
-Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. Focused on practical machine learning pipelines, quantitative research, market microstructure & order flow systems, onchain liquidity analysis, and robust backend engineering.
+Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. Focused on practical machine learning pipelines, agentic AI workflows & autonomous systems, quantitative research, market microstructure & order flow, and onchain analytics.
 
 ---
 
@@ -14,6 +14,16 @@ Data Science & Artificial Intelligence Engineering student based in Phnom Penh, 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="24" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24" />
+</p>
+
+#### Agentic AI, LLM Orchestration & Autonomous Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="24" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" height="24" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows_%26_MCP-0284C7?style=flat-square&logo=probot&logoColor=white" alt="Agentic Workflows" height="24" />
+  <img src="https://img.shields.io/badge/Hermes_Agents-4338CA?style=flat-square&logo=airplayvideo&logoColor=white" alt="Hermes Agents" height="24" />
+  <img src="https://img.shields.io/badge/n8n_Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="24" />
+  <img src="https://img.shields.io/badge/OhMyPi_%26_OpenCode-2563EB?style=flat-square&logo=terminal&logoColor=white" alt="OhMyPi & OpenCode" height="24" />
 </p>
 
 #### Quantitative Finance, Order Flow & Market Microstructure
@@ -66,6 +76,7 @@ Data Science & Artificial Intelligence Engineering student based in Phnom Penh, 
 
 ### Focus & Active Work
 
+- **Agentic AI & Multi-Agent Orchestration:** Designing autonomous agent pipelines, Model Context Protocol (MCP) integrations, command tooling, and event-driven automation harnesses (Claude Code, OpenAI Codex, Hermes, OhMyPi, n8n).
 - **Order Flow & Auction Market Microstructure:** Modeling price discovery, volume profiles, market imbalances, and liquidity sweeps across legacy equity/index markets and decentralized crypto venues.
 - **Onchain Data & Algorithmic Trading:** Tracking bonding curve metrics (Pump.fun), high-frequency DEX transactions, wallet flow clustering, and operating automated execution algorithms with Python, MetaTrader 5, and low-latency Telegram relays.
 - **Computer Vision & Verification:** Developing real-time anti-spoofing facial recognition pipelines with OpenCV, dlib, and multi-layer liveness detection (Blink EAR, LBP texture analysis, optical flow).
