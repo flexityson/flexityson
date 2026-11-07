@@ -1,6 +1,6 @@
 # Mony Chan
 
-Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. Focused on practical machine learning pipelines, computer vision systems, and robust backend services.
+Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. Focused on practical machine learning pipelines, quantitative research & algorithmic trading systems, and robust backend engineering.
 
 ---
 
@@ -14,6 +14,15 @@ Data Science & Artificial Intelligence Engineering student based in Phnom Penh, 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="24" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24" />
+</p>
+
+#### Quantitative Finance & Algorithmic Trading
+<p align="left">
+  <img src="https://img.shields.io/badge/MetaTrader_5-00529B?style=flat-square&logo=meta&logoColor=white" alt="MT5" height="24" />
+  <img src="https://img.shields.io/badge/TradingView_Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white" alt="Pine Script" height="24" />
+  <img src="https://img.shields.io/badge/Backtesting_%26_Risk_Models-1E293B?style=flat-square&logo=target&logoColor=white" alt="Backtesting" height="24" />
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-475569?style=flat-square&logo=apache-kafka&logoColor=white" alt="Time Series" height="24" />
+  <img src="https://img.shields.io/badge/Telegram_Execution_Bots-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots" height="24" />
 </p>
 
 #### AI, Computer Vision & Data Science
@@ -34,12 +43,12 @@ Data Science & Artificial Intelligence Engineering student based in Phnom Penh, 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="24" />
 </p>
 
-#### Databases, DevOps & Tooling
+#### Databases, DevOps & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="24" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="24" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux VPS" height="24" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="24" />
 </p>
 
@@ -47,8 +56,9 @@ Data Science & Artificial Intelligence Engineering student based in Phnom Penh, 
 
 ### Focus & Active Work
 
+- **Quantitative Research & Automated Trading:** Engineering 24/7 automated execution systems on VPS infrastructure (MetaTrader 5, Python, Telegram webhook dispatchers), strategy backtesting engines, and risk parameter validation (R-multiple distribution, drawdown analysis).
 - **Computer Vision & Verification:** Developing real-time anti-spoofing facial recognition pipelines with OpenCV, dlib, and multi-layer liveness detection (Blink EAR, LBP texture analysis, optical flow).
-- **Data Engineering & Analysis:** Building automated exploratory data workflows and analytical dashboards with SQL, Pandas, and visualization libraries.
+- **Data Engineering & Analysis:** Building automated exploratory data workflows and analytical dashboards with SQL, Pandas, and statistical modeling.
 - **Backend Architecture:** Designing RESTful services and micro-utilities prioritizing low latency, type safety, and clean separation of concerns.
 
 ---
