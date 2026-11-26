@@ -1,110 +1,128 @@
-# Mony Chan
+<div align="center">
+  <!-- Top Animated Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Mony%20Chan&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=AI%20Engineering%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Quantitative%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. Focused on practical machine learning pipelines, agentic AI workflows & autonomous systems, quantitative research, market microstructure & order flow, and onchain analytics.
-
----
-
-### Technical Competencies
-
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="24" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="24" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24" />
-</p>
-
-#### Agentic AI, LLM Orchestration & Autonomous Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="24" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" height="24" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows_%26_MCP-0284C7?style=flat-square&logo=probot&logoColor=white" alt="Agentic Workflows" height="24" />
-  <img src="https://img.shields.io/badge/Hermes_Agents-4338CA?style=flat-square&logo=airplayvideo&logoColor=white" alt="Hermes Agents" height="24" />
-  <img src="https://img.shields.io/badge/n8n_Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="24" />
-  <img src="https://img.shields.io/badge/OhMyPi_%26_OpenCode-2563EB?style=flat-square&logo=terminal&logoColor=white" alt="OhMyPi & OpenCode" height="24" />
-</p>
-
-#### Quantitative Finance, Order Flow & Market Microstructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Order_Flow_%26_Footprint-1E293B?style=flat-square&logo=statuspage&logoColor=white" alt="Order Flow" height="24" />
-  <img src="https://img.shields.io/badge/Auction_Market_Theory-0F172A?style=flat-square&logo=counterstrike&logoColor=white" alt="Auction Market Theory" height="24" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-00529B?style=flat-square&logo=meta&logoColor=white" alt="MT5" height="24" />
-  <img src="https://img.shields.io/badge/TradingView_Pine_Script-2962FF?style=flat-square&logo=tradingview&logoColor=white" alt="Pine Script" height="24" />
-  <img src="https://img.shields.io/badge/Backtesting_%26_Risk_Models-334155?style=flat-square&logo=target&logoColor=white" alt="Backtesting" height="24" />
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-475569?style=flat-square&logo=apache-kafka&logoColor=white" alt="Time Series" height="24" />
-  <img src="https://img.shields.io/badge/Telegram_Execution_Bots-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots" height="24" />
-</p>
-
-#### Onchain Intelligence, Memecoins & Solana Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana" height="24" />
-  <img src="https://img.shields.io/badge/Pump.fun_Dynamics-10B981?style=flat-square&logo=speedtest&logoColor=white" alt="Pump.fun" height="24" />
-  <img src="https://img.shields.io/badge/Memecoin_Liquidity_Tracking-F59E0B?style=flat-square&logo=coinmarketcap&logoColor=white" alt="Memecoins" height="24" />
-  <img src="https://img.shields.io/badge/DEX_Analytics_%26_RPCs-6366F1?style=flat-square&logo=ethereum&logoColor=white" alt="DEX Analytics" height="24" />
-</p>
-
-#### AI, Computer Vision & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="24" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="24" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="24" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" height="24" />
-</p>
-
-#### Frameworks & Backend Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="24" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="24" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" height="24" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" height="24" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="24" />
-</p>
-
-#### Databases, DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="24" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" />
-  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux VPS" height="24" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="24" />
-</p>
-
----
-
-### Focus & Active Work
-
-- **Agentic AI & Multi-Agent Orchestration:** Designing autonomous agent pipelines, Model Context Protocol (MCP) integrations, command tooling, and event-driven automation harnesses (Claude Code, OpenAI Codex, Hermes, OhMyPi, n8n).
-- **Order Flow & Auction Market Microstructure:** Modeling price discovery, volume profiles, market imbalances, and liquidity sweeps across legacy equity/index markets and decentralized crypto venues.
-- **Onchain Data & Algorithmic Trading:** Tracking bonding curve metrics (Pump.fun), high-frequency DEX transactions, wallet flow clustering, and operating automated execution algorithms with Python, MetaTrader 5, and low-latency Telegram relays.
-- **Computer Vision & Verification:** Developing real-time anti-spoofing facial recognition pipelines with OpenCV, dlib, and multi-layer liveness detection (Blink EAR, LBP texture analysis, optical flow).
-- **Backend Architecture:** Designing RESTful services and micro-utilities prioritizing low latency, type safety, and clean separation of concerns.
-
----
-
-### Featured Work
-
-| Project | Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[Nyx Attendance](https://github.com/flexityson/nyx-attendance)** | AI-powered facial attendance system with anti-spoofing and liveness verification | Python, OpenCV, Flask, dlib, SQLite |
-| **[Supermarket Sales EDA](https://github.com/flexityson/eda-supermarket-sales)** | In-depth exploratory data analysis and revenue trend evaluation | Python, Pandas, Matplotlib, Seaborn |
-| **[Gym Planner Secure](https://github.com/flexityson/gym-planner-secure)** | Workout logging architecture with secure session management and REST APIs | TypeScript, Node.js, REST API |
-| **[30 Days of Data Science](https://github.com/flexityson/30-days-data-science)** | Structured implementations across Python algorithms, SQL modeling, and ML basics | Python, SQL, Scikit-Learn |
-
----
-
-### Contact & Profiles
-
-<p align="left">
-  <a href="https://www.facebook.com/Itzzmony7">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%E2%9A%A1+AI+Engineer+%26+Deep+Learning+Practitioner;%F0%9F%A7%A0+Building+Autonomous+Agents+%26+Multi-Agent+Workflows;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%7C+Real-Time+Anti-Spoofing+%7C+PyTorch;%F0%9F%93%88+Market+Microstructure+%7C+Order+Flow+%7C+Quant+Models" alt="Typing SVG" />
   </a>
+
+  <br />
+
+  <!-- Status & Context Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-%F0%9F%9F%A2%20AUTONOMOUS%20SYSTEMS%20ACTIVE-0b0f19?style=flat-square&logoColor=34d399" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI%20%26%20CV-0b0f19?style=flat-square&logoColor=38bdf8" alt="Focus" />
+    <img src="https://img.shields.io/badge/DEGREE-DATA%20SCIENCE%20%26%20AI%20ENG-0b0f19?style=flat-square&logoColor=c084fc" alt="Degree" />
+    <img src="https://img.shields.io/badge/LOCATION-%F0%9F%87%B0%F0%9F%87%AD%20PHNOM%20PENH-0b0f19?style=flat-square" alt="Location" />
+  </p>
+</div>
+
+---
+
+### 🧠 Autonomous Agent & Neural Pipeline
+
+<div align="center">
+  <img src="assets/neural-agent-banner.svg" width="100%" alt="Neural Agent Runtime Architecture" />
+</div>
+
+---
+
+### ⚡ About Me
+
+Data Science & Artificial Intelligence Engineering student based in Phnom Penh, Cambodia. I architect and engineer end-to-end intelligent systems:
+
+- 🤖 **Agentic AI & Multi-Agent Swarms:** Designing autonomous loops, Model Context Protocol (MCP) toolkits, persistent execution memory, and multi-agent coordination frameworks (Claude Code, OpenAI Codex, Hermes).
+- 🧠 **Computer Vision & Practical Deep Learning:** Engineering anti-spoofing facial recognition pipelines (Blink EAR, LBP texture analysis, optical flow) and medical diagnostic classification from fundus photography.
+- 📈 **Quantitative Market Microstructure:** Modeling price discovery, footprint charts, volume profiles, and liquidity sweeps with automated algorithmic execution engines (MT5, Python, Pine Script, low-latency Telegram relays).
+- 🛠️ **High-Performance Backends:** Constructing low-latency, type-safe APIs with FastAPI, Rust, Go, PostgreSQL, and event-driven asynchronous architectures.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,rust,go,ts,fastapi,postgres,docker,linux,git,nextjs&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br />
+
+| Domain | Stack & Frameworks |
+| :--- | :--- |
+| **Agentic AI & LLMs** | Claude Code, OpenAI Codex, Model Context Protocol (MCP), Hermes Agents, n8n, OpenCode |
+| **ML, Vision & Data** | PyTorch, OpenCV, Scikit-Learn, Pandas, NumPy, HuggingFace, dlib |
+| **Quant & Microstructure** | Order Flow / Footprint, Auction Market Theory, MetaTrader 5 API, Pine Script, Time Series |
+| **Languages** | Python, Rust, Go, TypeScript, JavaScript, SQL |
+| **Backend & Systems** | FastAPI, Flask, Django, Node.js, Next.js, Redis, REST APIs |
+| **Databases & DevOps** | PostgreSQL, SQLite, Linux VPS, Docker, Git, GitHub Actions |
+
+---
+
+### 📊 Real-Time GitHub Intelligence & Streaks
+
+<div align="center">
+  <a href="https://github.com/flexityson">
+    <img src="https://github-readme-stats.vercel.app/api?username=flexityson&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" height="175" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/flexityson">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flexityson&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=38bdf8&fire=ff7a00&currStreakLabel=38bdf8" height="175" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/flexityson">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=flexityson&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38bdf8&line=34d399&point=c084fc" width="98%" alt="Contribution Graph" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexityson/flexityson/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexityson/flexityson/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexityson/flexityson/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 🚀 Featured Engineering Projects
+
+| Project | Domain | Architecture & Technologies | Status |
+| :--- | :--- | :--- | :---: |
+| **[Nyx Attendance](https://github.com/flexityson/nyx-attendance)** | Computer Vision / Anti-Spoofing | Multi-layer liveness detection (Blink EAR, LBP texture, optical flow) + facial recognition | `🟢 Shipped` |
+| **[Supermarket Sales EDA](https://github.com/flexityson/eda-supermarket-sales)** | Data Science & Analytics | Comprehensive exploratory statistical analysis and revenue optimization modeling | `🟢 Shipped` |
+| **[Gym Planner Secure](https://github.com/flexityson/gym-planner-secure)** | Backend Engineering | Workout logging architecture with secure session auth and modular REST endpoints | `🟢 Shipped` |
+| **[30 Days of Data Science](https://github.com/flexityson/30-days-data-science)** | Algorithms & ML Basics | Systematic progression across data structures, mathematical models, and ML algorithms | `🟢 Shipped` |
+| **[Ocular Biomarkers](https://github.com/flexityson)** | Deep Learning / Healthcare | Fundus photo ML classification for early disease detection in Cambodian patients | `⚡ Active` |
+
+---
+
+### 🌐 Connect & Collaborate
+
+<p align="center">
   <a href="https://t.me/Filexsi">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:chanmony205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/Itzzmony7">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/flexityson">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<!-- Bottom Animated Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
