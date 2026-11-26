@@ -179,7 +179,7 @@
     <!-- Line 1: Identity & Environment -->
     <text x="0" y="20" class="terminal-text">
       <tspan class="label-cyan">▸ OPERATOR:</tspan>
-      <tspan class="val-slate"> Tyson (Mony Chan) </tspan>
+      <tspan class="val-slate"> Flexityson </tspan>
       <tspan fill="#475569">|</tspan>
       <tspan class="label-cyan"> FOCUS:</tspan>
       <tspan class="val-purple"> AI Engineering &amp; Autonomous Agents</tspan>
